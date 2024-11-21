@@ -1,4 +1,4 @@
-[![MasterHead]([https://vrittechnologies.com/mern-stack-job-ready-training-in-nepal/](https://vrittechnologies.com/wp-content/uploads/elementor/thumbs/mern-1-1-q5x2yhvatai9vtyw8a3ej696750cy5yu4um084metk.png))
+
 <h1 align="center">Hi 👋, I'm Yash Bhardwaj</h1>
 <h3 align="center">I am a MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
