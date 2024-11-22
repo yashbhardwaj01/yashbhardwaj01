@@ -1,10 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Yash Bhardwaj</h1>
 <h3 align="center">I am a MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbhardwaj01&label=Profile%20views&color=0e75b6&style=flat" alt="yashbhardwaj01" /> </p>
 
-
+<p align="left"> <a href="https://twitter.com/yashbhardwaj_01" target="blank"><img src="https://img.shields.io/twitter/follow/yashbhardwaj_01?logo=twitter&style=for-the-badge" alt="yashbhardwaj_01" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Full Stack Development**
 
@@ -14,12 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://twitter.com/yashbhardwaj_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashbhardwaj_01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-bhardwaj0111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-bhardwaj0111/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yash_bhardwaj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yash_bhardwaj1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/yashbhardwaj_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yashbhardwaj_01/" height="30" width="40" /></a>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/yashbhardwaj_01/" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/yashbhardwaj_01?t=apgmpux7flq_bdq9_ki2x-05uaqeb0nys9bhqtrvzdc&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/yashbhardwaj_01/" height="30" width="40" /></a> </p>
-
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/yashbhardwaj01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/yashbhardwaj01/" height="30" width="40" /></a>
 </p>
 
